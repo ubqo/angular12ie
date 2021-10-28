@@ -1,0 +1,10 @@
+{
+    "name": "Test Web App",
+    "short_name": "Test",
+    "description": "The Test Web App",  
+    "icons": [],
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff"
+  }
