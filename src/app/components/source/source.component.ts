@@ -18,6 +18,7 @@ export class SourceComponent implements OnInit {
         /**
      * COMMENT OUT TO FIX ISSUE
      * src/app.module.ts - comment out global declaration
+     * src/app.module.ts - comment out global provider
      * assets/scripts/analytics.js - comment out all javascript code
      * src/app/components/first/first.component.ts - comment out call to analytics
      * src/app/components/second/second.component.ts - comment out call to analytics
